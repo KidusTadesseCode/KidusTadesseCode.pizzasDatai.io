@@ -1,0 +1,25 @@
+[{
+    "id": "Cheese", 
+    "type": "Cheese", 
+    "ingredients": ["Parmesan Cheese", "Cheese Blend"]
+},
+{
+    "id": "Vegetarian", 
+    "type": "Vegetarian", 
+    "ingredients": ["Pineapple", "Mushrooms", "Jalapeño Peppers", "Banana Peppers", "Roma Tomatoes", "Onions", "Fresh Spinach", "Black Olives", "Green Peppers", "Parmesan Cheese"]
+},
+{   "id": "Meat Lover",
+    "type": "Meat Lover",
+    "ingredients": ["Pepperoni", "Sausage", "Canadian Bacon", "Bacon", "Philly Steak", "Grilled Chicken", "Anchovies", "Spicy Italian Sausage", "Salami", "Beef", "Meatball", "Bacon Strips"]
+},
+{   "id": "All In", 
+    "type": "All In", 
+    "ingredients": ["Pepperoni", "Sausage", "Canadian Bacon", "Bacon", "Philly Steak", "Grilled Chicken", "Anchovies", "Pineapple", "Mushrooms", "Jalapeño Peppers", "Banana Peppers", "Roma Tomatoes"] 
+},
+{   
+    "id": "Build My Own", 
+    "type": "Build My Own", 
+    "ingredients": ["Pepperoni", "Sausage", "Canadian Bacon", "Bacon", "Philly Steak", "Grilled Chicken", "Anchovies", "Spicy Italian Sausage", "Salami", "Beef", "Meatball", "Bacon Strips", "Pineapple", "Mushrooms", "Jalapeño Peppers", "Banana Peppers", "Roma Tomatoes", "Onions", "Fresh Spinach", "Black Olives", "Green Peppers", "Parmesan Cheese", "Cheese Blend"]
+}]
+
+
